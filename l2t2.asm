@@ -14,5 +14,4 @@ mov di,[200]
 ; w
 ; q
 
-; debugx MUP\l2t2.com
 ; r
