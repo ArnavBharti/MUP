@@ -1,2 +1,2 @@
-; The following instructions were directly assembled by DEBUGX.
-f 120 l 55 "AB"
+; The following instructions were directly entered into DEBUGX.
+; f 120 l 55 "AB"
