@@ -1,8 +1,8 @@
 .model tiny
 .data
-    max1 db 20
+    max1 db 21
     act1 db ?
-    inp1 db 19 dup(0)
+    inp1 db 20 dup(0)
 .code
 .startup
     mov ah, 0ah
